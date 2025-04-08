@@ -9,21 +9,21 @@ Welcome to our collection of Python projects developed as part of our learning j
 ### 📘 Stage 1: Python Basics  
 In this foundational stage, we focused on understanding Python syntax, data types, conditionals, loops, functions, and basic programming constructs.
 
-🔗 **Assignments 00 to 05** – [View Here](link here)
+🔗 **Assignments 00 to 05** – https://github.com/shezanusman08/assignment-04/tree/main/Assignment_00_to_05
 
 ---
 
 ### 🧠 Stage 2: From Basics to Intermediate  
 This stage included a mix of basic and intermediate-level projects, including working with files, exception handling, modules, and creating small but functional Python programs.
 
-🔗 **Assignment 01** – [View Here](link here)
+🔗 **Assignment 01** – https://github.com/shezanusman08/assignment-04/tree/main/Assignment_01
 
 ---
 
 ### 💼 Stage 3: Real-World Projects  
 The final stage was focused on applying our skills to real-world applications. These projects were built using **Streamlit** for web-based apps or **Command-Line Interface (CLI)** for terminal-based tools. This phase was all about turning code into interactive, user-friendly tools.
 
-🔗 **Assignments 1 to 6** – [View Here](link here)
+🔗 **Assignments 1 to 6** – https://github.com/shezanusman08/assignment-04/tree/main/Assignment_01_to_06
 
 ---
 
